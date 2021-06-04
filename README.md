@@ -20,7 +20,7 @@ Evalution steps
 
 1.In retinaface.py file, modify “model_path” and “backbone” to match the trained files.
 2.Download the data set uploaded on baidu net disk, including the verification set, decompressed in the root directory.
-3.Run evaluation.py to begin the evaluation.
+3.Run "evaluation.py" to begin the evaluation.
 
 Reference
 https://github.com/biubug6/Pytorch_Retinaface
